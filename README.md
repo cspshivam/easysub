@@ -8,7 +8,8 @@ Fast Subdomain Enumeration Tool made with bash only 💯
 $ git clone https://github.com/cspshivam/easysub.git
 $ cd easysub
 $ chmod +x easysub.sh
-$ ./easysub.sh
+$ sudo cp easysub.sh /usr/local/bin/easysub
+$ easysub doamin
 ```
 If you get jq error, run the following command
 ```console
@@ -22,11 +23,7 @@ Flags
 -h : Help , Print Help
 -s : Silent output - No banner, no progress, only domains
 ```
-# Make easysub.sh universal & use it from any directory
-```console
-$ cp <PATH TO FILE>/easysub.sh /usr/bin/easysub
-$ easysub domain.com
-```
+
 FOLLOW ME
 * [Twitter](https://www.twitter.com/iamshivamz)
 * [Instagram](https://www.instagram.com/iamshivamz)
