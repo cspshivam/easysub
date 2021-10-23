@@ -12,7 +12,7 @@ echo -e "\e[1;31m
                                 ███                                   
                                                                           \e[0m"
 echo -e "                          \e[95m by CSPSHIV\e[5mΔ\e[0m\e[95mM\e[0m"
-echo -e "                          \e[95m https://www.cspshivam.com \e[0m "
+echo -e "                          \e[95m https://cspshivam.tk \e[0m "
 echo -e "\e[31m--------------------------------------------------------------\e[0m"
 echo -e "\e[31m[-]Subdomain Enumeration Sources :-
 + crt
