@@ -1,7 +1,6 @@
 # EasySub
 ![alt text](https://github.com/cspshivam/easysub/blob/main/.bnnr.JPG "easysub")
 
-Fast Subdomain Enumeration Tool made with bash only 💯
 
 # Installation
 ```console
